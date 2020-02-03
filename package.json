@@ -1,0 +1,9 @@
+{
+  "name": "googleCalendarIntegration",
+  "version": "1.0.0",
+  "description": "Uma API NodeJS integrada com o Google Agenda para estudos",
+  "main": "index.js",
+  "repository": "https://github.com/Guiradi/googleCalendarIntegration",
+  "author": "Guiradi <g.ferreira@unesp.br>",
+  "license": "MIT"
+}
