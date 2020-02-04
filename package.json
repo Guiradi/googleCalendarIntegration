@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/Guiradi/googleCalendarIntegration",
   "author": "Guiradi <g.ferreira@unesp.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "39"
+  }
 }
